@@ -30,3 +30,6 @@ Apaixonado por tecnologia e principalmente por programação!!!
 <br>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RobertSouzaG&show_icons=true&theme=highcontrast)
+
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0000CD&height=80&section=footer"/>
