@@ -19,5 +19,3 @@
 </div><br>
 
 Apaixonado por tecnologia e principalmente por programação!!!
-
-![snake gif](https://github.com/RobertSouzaG/RobertSouzaG/blob/output/github-contribution-grid-snake.svg)
