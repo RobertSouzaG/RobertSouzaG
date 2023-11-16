@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0000CD&height=80&section=header"/>
 
-Olá! Meu nome é Robert de Souza, tenho 24 anos e moro em Curvelo-MG!
+Olá! Meu nome é Robert de Souza, tenho 24 anos!
 <br>
 <br>
 
