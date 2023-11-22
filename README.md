@@ -64,18 +64,8 @@
 ## 
 
 <div align="center">
-  
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RobertSouzaG&show_icons=true&theme=highcontrast)
-
-
-</div>
-
-##
-
-<div align="center">
-  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RobertSouzaG&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
-
+ <img height="163em" src="https://github-readme-stats.vercel.app/api?username=RobertSouzaG&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+ <img height="163em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RobertSouzaG&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
 
