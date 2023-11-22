@@ -7,7 +7,6 @@
 
 <li>Desenvolvedor Full Stack</li>
 <li>Curvelo-MG</li>
-<li></li>
 
 </div>
 
