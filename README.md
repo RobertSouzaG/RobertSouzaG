@@ -7,11 +7,22 @@
 
 <li>Desenvolvedor Full Stack</li>
 <li>Curvelo-MG</li>
-
-</div>
-
-</div>
+<li>Apaixonado por tecnologia e principalmente por programação!!!</li>
 <br>
+
+
+<div align="center">
+
+## Contato
+
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)]()
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/robert-souza-1a2a80158)
+
+</div>
+
+</div>
+
+</div>
 <br>
 
 <div align="center">
@@ -47,23 +58,19 @@
 
 </div>
 <br>
-
-Apaixonado por tecnologia e principalmente por programação!!!
 <br>
 <br>
 
 <div align="center">
-
+  
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RobertSouzaG&show_icons=true&theme=highcontrast)
+
 
 </div>
 
 <div align="center">
-
-### Contato
-
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)]()
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/robert-souza-1a2a80158)
+  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
 
